@@ -84,4 +84,6 @@ To prepare and process the data for meaningful visualization:
 - Learned how to **present large public datasets** in a digestible and interactive format
 
 ---
+![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150059.png)
 
+![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150113.png)
