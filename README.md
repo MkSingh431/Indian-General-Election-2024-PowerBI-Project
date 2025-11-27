@@ -3,7 +3,7 @@
 This repository showcases my first end-to-end **Power BI project**, built to analyze and visualize the results and trends from the **2024 Indian General Elections**—the world's largest democratic exercise. The goal was to turn complex public election data into an interactive and informative visual experience.
 
 ---
-![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150024.png)
+![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150009.png)
 
 ## 📌 Project Overview
 
@@ -29,6 +29,8 @@ This project is designed to explore key dimensions of the election—from nation
 
 ---
 
+![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150024.png)
+
 ## 🔍 Data Analysis Approach
 
 To prepare and process the data for meaningful visualization:
@@ -50,6 +52,7 @@ To prepare and process the data for meaningful visualization:
   - Design four interactive dashboards with filters, slicers, and drilldowns
 
 ---
+![image text](https://github.com/MkSingh431/Indian-General-Election-2024-PowerBI-Project/blob/main/Dashboard%20Snapshots/Screenshot%202025-08-04%20150036.png)
 
 ## 🎯 Key Objectives
 
